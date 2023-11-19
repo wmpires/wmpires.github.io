@@ -1,4 +1,4 @@
-import styles from './page.module.scss'
+
 
 export default function Home() {
   return (
@@ -7,7 +7,7 @@ export default function Home() {
         <div className="col d-flex align-items-center justify-content-center">
           <div className="text-center">
             <h1>Hello</h1>
-            <h2>I'm William</h2>
+            <h2>I&apos;m William</h2>
           </div>
         </div>
       </div>
