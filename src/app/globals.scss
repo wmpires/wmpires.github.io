@@ -78,6 +78,12 @@ h1 {
   width: 32px;
   height: 32px;
   margin-right: 1em;
+  transform: scale(1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.ico:hover {
+  transform: scale(1.2);
 }
 
 @keyframes morph {
