@@ -9,9 +9,9 @@ export default function Home() {
         </div>
         <div className="col d-flex align-items-center justify-content-center">
           <div>
-            <h1 className="mb-1">William Philippe Pires</h1>
-            <p className="mb-3"><b className="mb-3">(Senior Software Engineer / DevOps Engineer)</b></p>
-            <p className="mb-4">Belgium-based Software Engineer skilled in Azure Cloud, Spring Boot, React, and Next.js. Passionate about crafting efficient solutions and capturing the beauty of Europe through both code and photography.</p>
+            <h1 className="mb-1" style={{marginLeft:"-10px"}}>William Philippe Pires</h1>
+            <p className="mb-0"><b>(Senior Software Engineer / DevOps Engineer)</b></p>
+            <p className="mb-3">Belgium-based Software Engineer skilled in Azure Cloud, Spring Boot, React, and Next.js. Passionate about crafting efficient solutions and capturing the beauty of Europe through both code and photography.</p>
             <p>
               <a href="https://github.com/wmpires" target="_blank"><img className="ico" src="/images/icons8-github-48.png"/></a>
               <a href="https://linkedin.com/in/wmpires" target="_blank"><img className="ico" src="/images/icons8-linkedin-48.png"/></a>

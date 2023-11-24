@@ -14,8 +14,8 @@ $theme-colors: (
 @import '~bootstrap/scss/bootstrap.scss';
 
 @font-face {
-  font-family: 'ToonySans';
-  src: url('/fonts/ToonySans.otf')  format('opentype');
+  font-family: 'Pink Bloom';
+  src: url('/fonts/Pink Bloom.otf')  format('opentype');
 }
 
 body, html {
@@ -38,9 +38,9 @@ body{
 }
 
 h1 {
-  font-family: 'ToonySans';
+  font-family: 'Pink Bloom';
   letter-spacing: 1.5px;
-  font-size: 3.5em;
+  font-size: 4.2em;
 }
 
 .avatar{
